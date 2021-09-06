@@ -5,4 +5,4 @@ false answer each of them. This can have at most one player for this sample quiz
 a vibrate to indicate that the chosen answer is incorrect and this will increase the user experience.
 ```
 
-![Alt Text](https://github.com/deepakjaiswal2018/Trivia-Quiz-App/blob/master/TriviaQuiz_demo.gif)
+![Alt Text](https://github.com/deepakjaiswal2018/Trivia-Quiz-App/TriviaQuiz_demo.gif)
